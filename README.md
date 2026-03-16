@@ -11,7 +11,7 @@ Login (login.html) — tela de autenticação com usuário e senha
 
 # ✨ Funcionalidades
 
-🎨 Design responsivo — adaptado para desktop e mobile
+🎨 Design responsivo adaptado para desktop e mobile
 🌙 Botão de tema escuro/claro na navbar
 🧭 Navegação entre páginas com navbar fixa
 📊 Seção de estatísticas com animação hover
